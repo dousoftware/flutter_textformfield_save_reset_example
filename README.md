@@ -1,16 +1,5 @@
-# flutter_textfield_full_example
+Flutter TextFormField kaydetme ve sıfırlama örneği
 
-A new Flutter project.
+Flutter TextFormField save and reset example
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/dousoftware/flutter_textformfield_save_reset_example/assets/60797535/25ef3412-1a66-443f-93d5-4adec2c68b0b
